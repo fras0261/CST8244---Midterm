@@ -1,0 +1,40 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.519 seconds
+Platform assembly: C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Phil\Documents\UnityProjects\MidtermPt2-master\Ball N Stuff_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.678463 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 794 -> priority: 1 
+  Thread -> id: b54 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.266491 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.408390 ms (FindLiveObjects: 0.038914 ms CreateObjectMapping: 0.029506 ms MarkObjects: 0.316021 ms  DeleteObjects: 0.021809 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.074216 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.514871 ms (FindLiveObjects: 0.028651 ms CreateObjectMapping: 0.023519 ms MarkObjects: 0.345100 ms  DeleteObjects: 0.116744 ms)
+
